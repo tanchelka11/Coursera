@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+</head>
+<body>
+<h1>Our Menu</h1>
+<div class="chicken">
+<div class="menu-title">Chicken</div>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus 
+  magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.
+ </p>
+  </div>
+  <div>
+<div class="menu-title">Beef</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus 
+  magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+</div>
+<div>
+<div class="menu-title">Sushi</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus 
+  magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+</div> 
+</body>
+</html>
