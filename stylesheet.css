@@ -1,6 +1,7 @@
-CSS 
 *{
 	box-sizing:border-box; 
+}
+.chicken{
 }
 .menu-title{
 position:relative; 
