@@ -6,22 +6,45 @@
 .container-heading{
 	text-align:center;
 	font-size:175%;
-	width:80%;
+	width:90%;
+	margin:25px;
 }
 
 .row{
-	padding:5px;
+	padding:15px;
+	margin:25px;
+	border:5px;
+	width:90%;
 }
 
-.chicken{
+.block{
+	margin:15px;
+	border: 3px solid black;
+	background-color:lightgray;
 }
 
-.menu-title{
-float: right; 
+.content{
+	margin:15px;
+	clear:both;
+}
+
+.block-title{
+float:right; 
 text-align:center;
 font-size:125%;
-border:2px solid black;
-width:20%;
+border:3px solid black;
+width:25%;
+}
+
+#chicken{
+	background-color:lightpink;
+}
+#beef{
+	background-color: lightcoral;
+	color:white;
+}
+#sushi{
+	background-color:LightGoldenRodYellow;
 }
 
 @media(min-width:992px){
@@ -29,7 +52,6 @@ width:20%;
 .col-lg-4{
 	float:left;
 	width:33.33%;
-	background-color:lightgrey;
 	}
 
 }
@@ -38,9 +60,7 @@ width:20%;
 
 .col-md-6, .col-md-12{
 	float:left;
-	width:; 
-	background-color:lightgrey;
-}
+	}
 
 .col-md-6{
 	width:50%;
